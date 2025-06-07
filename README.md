@@ -2,5 +2,7 @@
 This is a Demo of Git and Github class.
 # teacher
 Shradha kapraa
-#student
-Srikanth
+# student 1
+Srikanth 
+# student 2
+Srinidhi
